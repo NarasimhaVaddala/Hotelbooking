@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "671a424abcfec95e73a147d6"
+  },
+  "name": "Deluxe Room",
+  "price": 500,
+  "description": "Nice 2 Bed Room",
+  "availability": false,
+  "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?q=80&w=1474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a42fbbcfec95e73a147de"
+  },"name": "Deluxe Room",
+  "price": 600,
+  "description": "Nice 2 Bed Room",
+  "availability": false,
+  "image": "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a4315bcfec95e73a147e3"
+  },
+  "name": "Royal Room",
+  "price": 700,
+  "description": "Nice 2 Bed Room",
+  "availability": false,
+  "image": "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a4316bcfec95e73a147e5"
+  },
+  "name": "Super Room",
+  "price": 500,
+  "description": "Nice 2 Bed Room",
+  "availability": true,
+  "image": "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a4316bcfec95e73a147e7"
+  },
+ "name": "Luxury Room",
+  "price": 1500,
+  "description": "Nice 2 Bed Room",
+  "availability": false,
+  "image": "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a4316bcfec95e73a147e9"
+  },
+  "name": "Super Luxury Room",
+  "price": 2500,
+  "description": "Nice 2 Bed Room",
+  "availability": false,
+  "image": "https://plus.unsplash.com/premium_photo-1681487479203-464a22302b27?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671b6dcf7b149cb3954ee56d"
+  },
+  "name": "New Hotel Deluxe Room",
+  "price": 1000,
+  "description": "This is a Nice Deluxe Room with good Amount of Bullshite\\",
+  "availability": true,
+  "image": "https://plus.unsplash.com/premium_photo-1661964402307-02267d1423f5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aG90ZWwlMjByb29tfGVufDB8fDB8fHww",
+  "__v": 0
+}]
